@@ -1,0 +1,55 @@
+.card{
+    width: 15.4375rem;
+    height: 25rem;
+    border-radius: .3125rem;
+    padding: 2.8125rem;
+}
+.card-h2{
+    color: #F2F2F2;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    font-family: 'Big Shoulders Display', cursive;
+
+}
+.card-p{
+    font-size: .9375rem;
+    line-height: 1.5625rem;
+    color: white;
+    text-align: left;
+    font-family: 'Lexend Deca', sans-serif;
+}
+.card-button{
+    border: 1px solid;
+    border-radius: 1.25rem;
+    background-color: white;
+    color: orange;
+    padding: .625rem 1.5625rem;
+    margin-top: 3.75rem;
+}
+.card-button.orange{
+    color: orange;
+    background-color: white;
+}
+.card-button.blue{
+    color: #006971;
+    background-color: white;
+}
+.card-button.green{
+    color: #004140;
+    background-color: white;
+}
+.img{
+    width: 4rem;
+    height: 2.5rem;
+}
+.orange{
+    background-color:#E28625;
+}
+.blue{
+    background-color:#006971;
+}
+.green{
+    background-color: #004140;
+}
+
+
